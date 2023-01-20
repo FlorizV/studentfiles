@@ -1,0 +1,12 @@
+def: geeft een functie
+geef defs zelf een zo duidelijk betekenisvolle naam.
+bijvorbeeld:  def belastingberekener:
+globale variabelen gelden voor het heleprogramma en staan links tegen de kantlijn
+lokale variabelen zijn alleen bekend in de functie van dat moment en zijn niet zomaar aan te roepen
+door andere functies.
+Met een _underscore worden vaak globale variabele aangeduid, dit is puur voor de leesbaarheid.
+
+Bij elke functie krijg je automatisch ronde haken erbij geleverd
+Deze werden niet altijd ingevuld maar die zijn optioneel te vullen voor parameters
+Deze haken kun je gebruiken om parameters aan een functie toe te voegen.
+
